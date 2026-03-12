@@ -2,6 +2,9 @@
 
 2026.01.12
 
+* https://fkhafizov.github.io/public_domain/
+  
+* https://fkhafizov.github.io/public_domain/82_patents_2026.01.12.csv
 
 ```
 …or create a new repository on the command line
